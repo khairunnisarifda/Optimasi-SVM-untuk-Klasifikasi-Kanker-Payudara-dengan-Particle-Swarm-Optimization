@@ -15,7 +15,7 @@ pip install pyswarms ucimlrepo numpy pandas scikit-learn matplotlib seaborn
 
 ### 1. Import Dataset
 Dataset diambil langsung dari UCI Machine Learning Repository menggunakan library `ucimlrepo`.
-
+link : https://archive.ics.uci.edu/dataset/16/breast+cancer+wisconsin+prognostic
 ### 2. Data Cleaning
 - Mengisi nilai yang hilang dengan rata-rata.
 - Melakukan label encoding untuk kolom kategori.
